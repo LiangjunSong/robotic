@@ -1,0 +1,2 @@
+beginner_tutorials:lsd_slam/lsd_slam:lsd_slam/lsd_slam_core:lsd_slam/lsd_slam_viewer
+-DCATKIN_DEVEL_PREFIX=/home/david/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/david/catkin_ws/install -G Unix Makefiles
